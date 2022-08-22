@@ -1,0 +1,16 @@
+CTFLEARN writeup
+Wikipedia
+
+Not much to go off here, but it’s all you need: Wikipedia and 128.125.52.138.
+
+Wikipedia challenge is an easy level.
+
+wikipedia and ip address was given.
+I first go to wikipedia then copy paste the ip address.
+enter the ip address in the searchbar.
+after entering the ip address you can see the user contributions for the given ip address.
+I cick multiple hyperlink like the date of contribution, diff, history flag.
+after taking my time lookin for the flag. i found the flag on the diff section.
+the flag was "cNi76bV2IVERlh97hP".
+
+CTFLearn{cNi76bV2IVERlh97hP}
