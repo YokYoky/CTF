@@ -1,0 +1,31 @@
+CTFLEARN WRITEUP
+Gobustme
+
+Some ghosts made this site 👻, it's a little spooky but theres a bunch of stuff hidden around.
+
+gobustme.ctflearn.com
+
+inside the site there's a video and a lyric of a ghost buster video.
+in the lyric video there's two hyperlink which gobustme and common wordlist
+
+in the gobuster link there's a tutorial about gobuster.
+https://www.securitynewspaper.com/2019/11/04/bruteforce-any-website-with-gobuster-step-by-step-guide/
+after reading the article you can find out how gobuster works.
+
+after you know how it works then lets proceed to second hyperlink which is common wordlist.
+i download this on my terminal by using wget https://raw.githubusercontent.com/v0re/dirb/master/wordlists/common.txt
+
+common wordlist is a text file.
+
+after installing gobuster
+i enter this command to find the ghost:
+gobuster dir -u https://gobustme.ctflearn.com/ -w common.txt
+the command above is my take of the example in the gobuster site guide.
+
+run the command and when it to finish and it will look like this:
+
+you see the results are bunch of url with directories.
+with the help of these you can find the flag.
+the flag is hidden in http://gobustme.ctflearn.com/hide/
+
+Flag: CTFlearn{gh0sbu5t3rs_4ever}
