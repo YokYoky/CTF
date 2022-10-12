@@ -11,7 +11,7 @@ Go to wikipedia site then search the given IP address.
 
 The result will give you user contribution.
 
-Now dig deeper you eventually find the flag.
+Now dig deeper you will eventually find the flag.
 
 
 
