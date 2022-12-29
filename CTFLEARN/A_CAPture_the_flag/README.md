@@ -1,3 +1,5 @@
+This isn't what I had in mind, when I asked someone to capture a flag... can you help? You should check out WireShark. https://mega.nz/#!3WhAWKwR!1T9cw2srN2CeOQWeuCm0ZVXgwk-E2v-TrPsZ4HUQ_f4
+
 their are two ways to find the flag, wireshark or using string
 In wireshark, open wireshark, click open a capture a file then select the pcap file
 use http filter, examine the capture packet to find some possible key to flag
