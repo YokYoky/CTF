@@ -1,0 +1,12 @@
+RDP to 10.129.201.57 with user "htb-student" and password "Academy_WinFun!" 
+xfreerdp /v:10.129.201.57 /u:htb-student /p:Academy_WinFun!
+
+What is the Build Number of the target workstation?
+Answer: Get-WmiObject -Class win32_OperatingSystem | select Version,BuildNumber
+	Version    BuildNumber
+	-------    -----------
+	10.0.19041 19041
+
+Which Windows NT version is installed on the workstation? (i.e. Windows X - case sensitive)
+Answer: you can already see the version above (10) or use other methods (ver or wmic get os version)
+	(replace X with version) Windows 10

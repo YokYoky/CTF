@@ -1,0 +1,5 @@
+What is the name of the hidden "history" file in the htb-user's home directory? 
+Answer: use find command or ls -a .bash_history
+
+What is the index number of the "sudoers" file in the "/etc" directory?
+Answer: cd /etc then ls -i | grep "sudoers" 147627

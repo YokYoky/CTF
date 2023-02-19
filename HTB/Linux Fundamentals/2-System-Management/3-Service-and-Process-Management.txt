@@ -1,0 +1,2 @@
+Use the "systemctl" command to list all units of services and submit the unit name with the description "Load AppArmor profiles managed internally by snapd" as the answer. 
+Answer: systemctl | grep "Load AppArmor profiles managed internally by snapd" snapd.apparmor.service

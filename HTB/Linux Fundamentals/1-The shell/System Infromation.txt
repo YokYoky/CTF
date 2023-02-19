@@ -1,0 +1,20 @@
+11:25 am 7/2/2023 linux free and open source
+11:25 am 7/2/2023 OS manages all of the hardware resources connected with computer
+
+Find out the machine hardware name and submit it as the answer.
+Answer: uname -i x86_64
+
+What is the path to htb-student's home directory?
+Answer: pwd /home/htb-student
+
+What is the path to the htb-student's mail?
+Answer: echo #MAIL /var/mail/htb-student
+
+Which shell is specified for the htb-student user? 
+Answer: echo #SHELL /bin/bash
+
+Which kernel version is installed on the system? (Format: 1.22.3)
+Answer: uname -r 4.15.0
+
+What is the name of the network interface that MTU is set to 1500?
+Answer: netstat -i ens192

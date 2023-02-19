@@ -1,0 +1,18 @@
+RDP to 10.129.49.7 with user "htb-student" and password "Academy_WinFun!"
+
++ 1 Find the SID of the bob.smith user.
+
+	https://www.tenforums.com/tutorials/84467-find-security-identifier-sid-user-windows.html#option4
+
+Answer: in ps Get-WmiObject win32_useraccount | Select name,sid // to gel all user name & sid
+
+	in cmd wmic useraccount where name="bob.smith" get sid // get specific sid of user	
+
+	Name		SID
+
+	bob.smith	S-1-5-21-2614195641-1726409526-3792725429-1003
+
+
+
+What 3rd party security application is disabled at startup for the current user? (The answer is case sensitive). 
+Answer: to see the startup application in windows open the task manager. Then go to startup tab, answer is NordVPN.

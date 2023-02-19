@@ -1,0 +1,6 @@
+Find the non-standard directory in the C drive. Submit the contents of the flag file saved in this directory. 
+Answer: dir c:\ /a (list all dir in c, equivalent of ls in unix)
+	cd c:\Academy (we know the flag is in Academy bcuz of the hint)
+	type flag.txt (equivalent of cat in unix)
+	type c:\Academy\flag.txt (if u r in root dir)
+	c8fe8d977d3a0c655ed7cf81e4d13c75

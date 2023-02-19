@@ -1,0 +1,5 @@
+What is the name of the last modified file in the "/var/backups" directory?
+Answer: ls -lt apt.extended_states.0
+
+What is the inode number of the "shadow.bak" file in the "/var/backups" directory?
+Answer: ls -i | grep "shadow.bak" 265293

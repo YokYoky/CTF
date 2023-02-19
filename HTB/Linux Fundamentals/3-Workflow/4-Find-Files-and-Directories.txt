@@ -1,0 +1,9 @@
+What is the name of the config file that has been created after 2020-03-03 and is smaller than 28k but larger than 25k? 
+Answer: find / -type f -name "*.conf" -size +25k -size -28k -newermt 2020-03-03  2>/dev/null
+	00-mesa-defaults.conf
+
+How many files exist on the system that have the ".bak" extension?
+Answer: locate *.bak 4
+
+Submit the full path of the "xxd" binary.
+Answer: which xxd /usr/bin/xxd 
