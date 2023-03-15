@@ -1,6 +1,7 @@
 Author: LT 'syreal' Jones       
-# Description   
-If you want to hash with the best, beat this test!
+# Description
+
+##If you want to hash with the best, beat this test!
 
 use nc command to connect to given address and port
 ```console
