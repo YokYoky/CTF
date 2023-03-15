@@ -1,5 +1,5 @@
-Author: LT 'syreal' Jones
-Description
+Author: LT 'syreal' Jones       
+# Description   
 If you want to hash with the best, beat this test!
 
 use nc command to connect to given address and port
