@@ -30,4 +30,5 @@ I tried to open book.rar with xdg-open, but it gives me nothing. So I rename the
 $ mv book.rar book.png
 $ xdg-open book.png 
 ```
+![Image Alt Text](flagbook.png)
 ![[flagbook.png]]
