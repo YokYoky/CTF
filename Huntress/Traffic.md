@@ -56,5 +56,5 @@ I used grep to find the sketchy site
 cat *.log | grep sketchy
 1631060682.734045       CV4RZs2lVS3K3dKGQj      10.24.0.2       61108   1.1.1.1 53      udp   9027     0.043605        sketchysite.github.io   1       C_INTERNET      1       A       0     N
 ```
-![[sketchy.png]]
+![Image Alt Text](sketchy.png)
 **Flag:** flag{8626fe7dcd8d412a80d0b3f0e36afd4a}
