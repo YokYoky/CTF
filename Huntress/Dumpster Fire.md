@@ -27,4 +27,4 @@ I tried to grep with "username" and it outputs encrypted username and password.
 ```
 I google how to decrypt the password and i found this writeup from grimmcon ctf 2020
 https://klefz.se/2020/12/31/grimmcon-ctf-2020-writeup/
-![[datadump.png]]
+![Image Alt Text](datadump.png)
