@@ -16,7 +16,9 @@ $ cat chicken_wings
 ```
 I google the output, the output must be a encoded wingdings.
 https://lingojam.com/WingDing
-![[wingding.png]]
+
+![wingding](wingding.png)
+
 **Flag:** flag{e0791ce68f718188c0378b1c0a3bdc9e}
 
 
