@@ -43,8 +43,10 @@ The comments being a hint, I try to rot13 the $L66Rgr[1] which is the file, then
 
 **Decode the string to rot13**
 ![rot13](rot13.png)
+
 **Reverse the result**
 ![revstring](revstring.png)
+
 **Then decode it to base64, use any tool. I used cyberchef to decode it.**
 it outputs php function, css, and html.
 The function is the most important to look at
