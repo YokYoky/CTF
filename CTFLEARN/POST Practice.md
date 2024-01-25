@@ -45,3 +45,4 @@ response = requests.post(url, data=data)
 
 print(response.text)
 ```
+**FLAG:** flag{p0st_d4t4_4ll_d4y}
