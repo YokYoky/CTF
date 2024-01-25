@@ -42,9 +42,9 @@ base64_decode(strrev(str_rot13($L66Rgr[1])))    // Element 2: Reverse, ROT13, an
 The comments being a hint, I try to rot13 the $L66Rgr[1] which is the file, then reverse string the result from rot13. After reversing the string, decode it to base64, and it gives me an php function.
 
 **Decode the string to rot13**
-![[/rot13.png]]
+![rot13](rot13.png)
 **Reverse the result**
-![[/revstring.png]]
+![revstring](revstring.png)
 **Then decode it to base64, use any tool. I used cyberchef to decode it.**
 it outputs php function, css, and html.
 The function is the most important to look at
