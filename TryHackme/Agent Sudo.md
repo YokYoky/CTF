@@ -109,3 +109,74 @@ by using binwalk to both png files. The cutie has hidden zip file, so extract it
 Zip file password
 use john the ripper
 Ans: alien
+
+use 7z to unzip the 8702.zip file
+`7z e 8702.zip `
+it will overwrite the txt.file
+```
+$ cat To_agentR.txt 
+Agent C,
+
+We need to send the picture to 'QXJlYTUx' as soon as possible!
+
+By,
+Agent R
+```
+decode QXJlYTUx from base64.
+Ans: Area51
+
+
+Now, extract the embedded data in jpg file
+```
+$ steghide --extract -sf cute-alien.jpg 
+Enter passphrase: 
+wrote extracted data to "message.txt".
+```
+```
+$ cat message.txt 
+Hi james,
+
+Glad you find this message. Your login password is hackerrules!
+
+Don't ask me why the password look cheesy, ask agent R who set this password for you.
+
+Your buddy,
+chris
+```
+
+Who is the other agent (in full name)?
+Ans: James
+
+SSH password
+Ans: hackerrules!
+
+# Task 4 Capture the user flag
+
+What is the user flag?
+ssh into user and password we found.
+```
+ssh james@10.10.23.238
+```
+```
+james@agent-sudo:~$ ls
+Alien_autospy.jpg  user_flag.txt
+james@agent-sudo:~$ cat user_flag.txt 
+b03d975e8c92a7c04146cfa7a5a313c7
+```
+Flag: b03d975e8c92a7c04146cfa7a5a313c7
+
+What is the incident of the photo called?
+
+download the jpg file from ssh to your machine, then reverse image to find the incident name
+Ans: roswell alien autopsy
+
+# Task 5 Privilege escalation
+
+CVE number for the escalation
+Ans: CVE-2019-14287
+
+What is the root flag?
+Ans: b53a02f55b57d4439e3341834d70c062s
+
+(Bonus) Who is Agent R?
+Ans: Deskel
