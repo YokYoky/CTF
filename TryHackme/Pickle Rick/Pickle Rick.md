@@ -1,4 +1,4 @@
-![[Pickle Rick.png]]
+![Pickle Rick](Pickle%20Rick.png)
 # Enumeration
 ```
 nmap -sC -sV -v 10.10.45.121
@@ -88,10 +88,10 @@ Progress: 50094 / 1273834 (3.93%)^C
 ===============================================================
 ```
 we can now login using the credentials we found.
-![[pickril.png]]
-![[pickrleks.png]]
+![Pickril](pickril.png)
+![Pickrleks](pickrleks.png)
 Great! we can execute some commands
-![[pckerl.png]]
+![Pckerl](pckerl.png)
 ls command is not working, less commands work. We got the first flag.
 
 Lets see if we can execute some sudo command 
