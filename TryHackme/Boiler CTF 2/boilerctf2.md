@@ -172,7 +172,7 @@ The interesting file name in the folder?
 ```
 http://10.10.119.148/joomla/_test/index.php?plot=;ls
 ```
-![[Boiler.png]]
+![Boiler](Boiler.png)
 
 # Task 2
 You can complete this with manual enumeration, but do it as you wish  
