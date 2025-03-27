@@ -1,4 +1,4 @@
-![Pickle Rick](Pickle%20Rick.png)
+![](Pickle%20Rick.png)
 # Enumeration
 ```
 nmap -sC -sV -v 10.10.45.121
