@@ -61,4 +61,4 @@ valid_combination = find_valid_combination(damage_rounds, target_damage)
 print(valid_combination)
 ```
 
-![[HTB Apocalypse/coding/Dragon Fury/assets/Pasted image 20250322232154.png]]
+![](HTB%20Apocalypse/coding/Dragon%20Fury/assets/Pasted%20image%2020250322232154.png)

@@ -7,11 +7,11 @@ Example: HTB{APT01} No special characters**
 
 google 139.5.177.205
 
-![[HTB Apocalypse/osint/The Shadowed Sigil/assets/Pasted image 20250322212544.png]]
+![](HTB%20Apocalypse/osint/The%20Shadowed%20Sigil/assets/Pasted%20image%2020250322212544.png)
 
 going to each ipinfo links i thought i found it
-![[HTB Apocalypse/osint/The Shadowed Sigil/assets/Pasted image 20250322212610.png]]
 
+![](HTB%20Apocalypse/osint/The%20Shadowed%20Sigil/assets/Pasted%20image%2020250322212610.png)
 but it turns out its wrong
 
 its already right in front of my eye earlier

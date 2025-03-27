@@ -149,4 +149,4 @@ print(shortest_safe_path(grid))
 
 ```
 
-![[HTB Apocalypse/coding/ClockWork Gurdian/assets/Pasted image 20250323104641.png]]
+![](HTB%20Apocalypse/coding/ClockWork%20Gurdian/assets/Pasted%20image%2020250323104641.png)

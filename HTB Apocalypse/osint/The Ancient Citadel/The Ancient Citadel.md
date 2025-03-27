@@ -5,9 +5,9 @@ Deep in her sanctum beneath Eldoria's streets, Nyla arranges seven crystalline o
 **HTB{street_number_exactzipcode_city_with_underscores_region}  
 Example: HTB{Libertad_102_2520000_Viña_del_Mar_Valparaíso} Use underscores between words and include special characters where appropriate**
 
-![[ancientcitadel.png]]
+![](HTB%20Apocalypse/osint/The%20Ancient%20Citadel/assets/ancientcitadel.png)
 
-![[HTB Apocalypse/osint/The Ancient Citadel/assets/Pasted image 20250322141018.png]]
+![](HTB%20Apocalypse/osint/The%20Ancient%20Citadel/assets/Pasted%20image%2020250322141018.png)
 
 ```
 HTB{Iberia_104_2571409_Viña_del_Mar_Valparaíso}

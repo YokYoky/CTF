@@ -1,9 +1,9 @@
 # Challenge
 Elowen Moonsong, an Elven mage of great wisdom, has discovered an ancient scroll rumored to contain the location of The Dragon’s Heart. However, the scroll is enchanted with an old magical cipher, preventing Elowen from reading it.
 
-![[HTB Apocalypse/reveng/Encrypted scroll/assets/Pasted image 20250321220922.png]]
+![](HTB%20Apocalypse/reveng/Encrypted%20scroll/assets/Pasted%20image%2020250321220922.png)
 The challenge give us a executable file, lets open this in ghidra to analyze the file.
-![[HTB Apocalypse/reveng/Encrypted scroll/assets/Pasted image 20250321220955.png]]
+![](HTB%20Apocalypse/reveng/Encrypted%20scroll/assets/Pasted%20image%2020250321220955.png)
 In decrypt_message function, we can see how the file works. 
 ```
 void decrypt_message(char *param_1)

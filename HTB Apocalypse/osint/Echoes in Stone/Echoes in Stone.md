@@ -5,12 +5,11 @@ In the twilight archives of Eldoria, Nyla studies an image of an ancient Celtic 
 **HTB{Name_High_Cross}  
 Example: HTB{Kells_High_Cross} No special characters and avoid using the letter 's**
 
-![[echoesinthestone.png]]
-
+![](HTB%20Apocalypse/osint/Echoes%20in%20Stone/assets/echoesinthestone.png)
 
 https://www.discoverboynevalley.ie/boyne-valley-drive/heritage-sites/monasterboice-high-crosses-and-monastic-site
 
-![[HTB Apocalypse/osint/Echoes in Stone/assets/Pasted image 20250322132721.png]]
+![](HTB%20Apocalypse/osint/Echoes%20in%20Stone/assets/Pasted%20image%2020250322132721.png)
 
 ```
 HTB{Muiredach_High_Cross}
