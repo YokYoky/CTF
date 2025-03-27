@@ -1,4 +1,4 @@
-![[assets/og-image.jpg]](assets/og-image.jpg)
+![[HTB Apocalypse/assets/og-image.jpg]](assets/og-image.jpg)
 
 Here is my writeup for my solved challenges as a solo bolo. 
 
