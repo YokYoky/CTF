@@ -9,10 +9,10 @@ A critical incident has occurred in Tales from Eldoria, trapping thousands of pl
 ```
 frame contains "email"
 ```
-![[HTB Apocalypse/forensics/Silent Trap/assets/Pasted image 20250323175149.png]]
+![](HTB%20Apocalypse/forensics/Silent%20Trap/assets/Pasted%20image%2020250323175149.png)
 follow tcp the first one
-![[HTB Apocalypse/forensics/Silent Trap/assets/Pasted image 20250323175233.png]]
-![[HTB Apocalypse/forensics/Silent Trap/assets/Pasted image 20250323175332.png]]
+![](HTB%20Apocalypse/forensics/Silent%20Trap/assets/Pasted%20image%2020250323175233.png)
+![](HTB%20Apocalypse/forensics/Silent%20Trap/assets/Pasted%20image%2020250323175332.png)
 
 ```
 Game Crash on Level 5
@@ -20,14 +20,17 @@ Game Crash on Level 5
 
 2. On what date and time was the suspicious email sent? (Format: YYYY-MM-DD_HH:MM) (for example: 1945-04-30_12:34)
 based from earlier, `shadowblade@email.com` must be the suspicious email. Filter it then follow the first tcp 
-![[HTB Apocalypse/forensics/Silent Trap/assets/Pasted image 20250323180128.png]]
-![[HTB Apocalypse/forensics/Silent Trap/assets/Pasted image 20250323180258.png]]
+![](HTB%20Apocalypse/forensics/Silent%20Trap/assets/Pasted%20image%2020250323180128.png)
+![](HTB%20Apocalypse/forensics/Silent%20Trap/assets/Pasted%20image%2020250323180258.png)
+```
+2025-02-24_15:46
+```
 
-3. What is the MD5 hash of the malware file?
+2. What is the MD5 hash of the malware file?
 	 i found the malware but i got stuck getting the md5 hash because the file is password protected. After the event ended, reading from other writeup the password is already in front of my eyes. Lesson learned, Think critically and observe more.
 
-4. What credentials were used to log into the attacker's mailbox? (Format: username:password)
+3. What credentials were used to log into the attacker's mailbox? (Format: username:password)
 
-5. What is the name of the task scheduled by the attacker?
+4. What is the name of the task scheduled by the attacker?
 
-6. What is the API key leaked from the highly valuable file discovered by the attacker?
+5. What is the API key leaked from the highly valuable file discovered by the attacker?

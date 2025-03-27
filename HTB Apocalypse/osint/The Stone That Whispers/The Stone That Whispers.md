@@ -5,11 +5,11 @@ In the twilight archives of Eldoria, Nyla studies an image of a mysterious monum
 **HTB{Name_Object}  
 Example: HTB{Pia_Pail} No special characters**
 
-![[stone thar whispers.png]]
+![](HTB%20Apocalypse/osint/The%20Stone%20That%20Whispers/assets/stone%20thar%20whispers.png)
 
 https://en.wikipedia.org/wiki/Hill_of_Tara
 
-![[HTB Apocalypse/osint/The Stone That Whispers/assets/Pasted image 20250322133129.png]]
+![](HTB%20Apocalypse/osint/The%20Stone%20That%20Whispers/assets/Pasted%20image%2020250322133129.png)
 
 ```
 HTB{Lia_Fail}

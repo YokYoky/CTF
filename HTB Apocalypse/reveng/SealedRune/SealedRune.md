@@ -144,18 +144,18 @@ base64_decode
 .comment
 
 ```
-
+![](HTB%20Apocalypse/reveng/SealedRune/assets/Pasted%20image%2020250321220802.png)
 ```
 LmB9ZDNsNDN2M3JfYzFnNG1fM251cntCVEhgIHNpIGxsZXBzIHRlcmNlcyBlaFQ=
 ```
-![[HTB Apocalypse/reveng/SealedRune/assets/Pasted image 20250321220802.png]]
+
+![](HTB%20Apocalypse/reveng/SealedRune/assets/Pasted%20image%2020250321220738.png)
 
 ```
 .`}d3l43v3r_c1g4m_3nur{BTH` si lleps terces ehT
 ```
-![[HTB Apocalypse/reveng/SealedRune/assets/Pasted image 20250321220738.png]]
 
+![](HTB%20Apocalypse/reveng/SealedRune/assets/Pasted%20image%2020250321220823.png)
 ```
 HTB{run3_m4g1c_r3v34l3d}
 ```
-![[HTB Apocalypse/reveng/SealedRune/assets/Pasted image 20250321220823.png]]

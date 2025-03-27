@@ -5,11 +5,11 @@ In the highest tower of Eldoria's archives, Nyla manipulates a crystal scrying g
 **The Mechanical Bird’s Nest: HTB{XX.XXX_-XXX.XXX}  
 Example: HTB{48.858_-222.294} Latitude and longitude format with a dash separating the coordinates**
 
-![[birdnest.png]]
+![](HTB%20Apocalypse/osint/The%20Mechanical%20Bird's%20Nest/assets/birdnest.png)
 
-![[area.png]]
+![](HTB%20Apocalypse/osint/The%20Mechanical%20Bird's%20Nest/assets/area.png)
 
-![[area51.png]]
+![](HTB%20Apocalypse/osint/The%20Mechanical%20Bird's%20Nest/assets/area51.png)
 
 ```
 HTB{37.247_-155.812}

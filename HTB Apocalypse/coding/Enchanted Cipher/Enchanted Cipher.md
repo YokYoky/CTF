@@ -100,4 +100,4 @@ decoded_text = decode_cipher(ciphertext, shifts)
 print(decoded_text)
 ```
 
-![[HTB Apocalypse/coding/Enchanted Cipher/assets/Pasted image 20250324173235.png]]
+![](HTB%20Apocalypse/coding/Enchanted%20Cipher/assets/Pasted%20image%2020250324173235.png)

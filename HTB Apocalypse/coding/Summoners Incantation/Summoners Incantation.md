@@ -23,4 +23,4 @@ tokens = eval(input_text)  # Convert input string to list
 print(max_energy(tokens))
 ```
 
-![[HTB Apocalypse/coding/Summoners Incantation/assets/Pasted image 20250321225629.png]]
+![](HTB%20Apocalypse/coding/Summoners%20Incantation/assets/Pasted%20image%2020250321225629.png)

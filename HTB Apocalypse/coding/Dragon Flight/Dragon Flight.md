@@ -146,4 +146,4 @@ for _ in range(q):
 
 ```
 
-![[HTB Apocalypse/coding/Dragon Flight/assets/Pasted image 20250323103407.png]]
+![](HTB%20Apocalypse/coding/Dragon%20Flight/assets/Pasted%20image%2020250323103407.png)
